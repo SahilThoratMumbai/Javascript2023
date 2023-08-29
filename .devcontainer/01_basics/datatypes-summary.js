@@ -26,3 +26,8 @@ const myfunction=function(){
 
 console.log(typeof myObj);
 //JS is dynamicallt typed programming language
+
+
+/** STACK & HEAP MEMORY**/
+
+//Stack(Primitive)     //Heap(Non-Primitive)
